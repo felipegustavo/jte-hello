@@ -14,6 +14,8 @@
     <label for="email">Email: </label>
     <input type="text" name="email" id="email" value="${user.getEmail()}">
 
+    <!--<input type="hidden" name="id" value="${user.getId()}">-->
+
     <button type="submit">Enviar</button>
 
 </form>

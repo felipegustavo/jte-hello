@@ -19,9 +19,7 @@
         ${content}
     </main>
 
-    <footer>
-        <h2>Rodapé site</h2>
-    </footer>
+    @template.layout.footer()
 
 </body>
 </html>
