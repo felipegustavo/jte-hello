@@ -1,8 +1,0 @@
-gg:
-    jte:
-        development-mode: true
-
-spring:
-    application:
-        name: Projeto Hello
-        version: 1.0
